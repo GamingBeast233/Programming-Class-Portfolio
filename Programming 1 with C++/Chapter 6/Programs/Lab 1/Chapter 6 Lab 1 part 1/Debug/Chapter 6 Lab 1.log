@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\M1740721\OneDrive - Hinds Community College\Documents\Year 2 - Fall 2019\Programming 1 with C++\Chapter 6\Programs\Lab 1\Chapter 6 Lab 1\Source.cpp(17,23): warning C4101: 'totalSalesSE': unreferenced local variable
+C:\Users\M1740721\OneDrive - Hinds Community College\Documents\Year 2 - Fall 2019\Programming 1 with C++\Chapter 6\Programs\Lab 1\Chapter 6 Lab 1\Source.cpp(17,37): warning C4101: 'totalSalesNW': unreferenced local variable
+C:\Users\M1740721\OneDrive - Hinds Community College\Documents\Year 2 - Fall 2019\Programming 1 with C++\Chapter 6\Programs\Lab 1\Chapter 6 Lab 1\Source.cpp(17,9): warning C4101: 'totalSalesNE': unreferenced local variable
+C:\Users\M1740721\OneDrive - Hinds Community College\Documents\Year 2 - Fall 2019\Programming 1 with C++\Chapter 6\Programs\Lab 1\Chapter 6 Lab 1\Source.cpp(17,51): warning C4101: 'totalSalesSW': unreferenced local variable
+  Chapter 6 Lab 1.vcxproj -> C:\Users\M1740721\OneDrive - Hinds Community College\Documents\Year 2 - Fall 2019\Programming 1 with C++\Chapter 6\Programs\Lab 1\Chapter 6 Lab 1\Debug\Chapter 6 Lab 1.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Colton\\Documents\\Programming 1 with C\u002B\u002B\\Chapter 6\\Programs\\Lab 1\\Chapter 6 Lab 1 part 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2A6F5C-53A3-4EE9-AFCE-8C62AF09965F}|Chapter 6 Lab 1.vcxproj|C:\\Users\\Colton\\Documents\\Programming 1 with C\u002B\u002B\\Chapter 6\\Programs\\Lab 1\\Chapter 6 Lab 1 part 1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F2A6F5C-53A3-4EE9-AFCE-8C62AF09965F}|Chapter 6 Lab 1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\Colton\\Documents\\Programming 1 with C\u002B\u002B\\Chapter 6\\Programs\\Lab 1\\Chapter 6 Lab 1 part 1\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\Colton\\Documents\\Programming 1 with C\u002B\u002B\\Chapter 6\\Programs\\Lab 1\\Chapter 6 Lab 1 part 1\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-17T07:12:26.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
